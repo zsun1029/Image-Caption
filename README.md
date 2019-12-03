@@ -2,7 +2,7 @@
 
 python 							   3.6
 
-torch							   0.4.1
+torch							   0.3.1
 
 Pillow							   4.2.1
 
