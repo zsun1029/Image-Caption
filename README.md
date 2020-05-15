@@ -34,3 +34,5 @@ plot.py用于毕设论文画图
 testone.py用于单条测试，用于和在线demo连接
 
 language.lua用于在单条测试时将英文数据集翻译为中文
+
+训练与测试方法在main.py中
