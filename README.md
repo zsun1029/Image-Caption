@@ -22,6 +22,8 @@ torchvision                        0.2.0
 ===
 MSCOCO-caption
 
+根目录下两个COCO_test.jpg可供测试使用
+
 各个文件的作用
 ===
 
